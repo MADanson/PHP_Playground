@@ -1,5 +1,6 @@
 <html>
   <head>
+    <link rel="stylesheet" type="text/css" href="/bootstrap-3.3.7-dist/css/bootstrap-theme.css">
     <meta charset="utf-8">
     <title>Login Page Test</title>
   </head>
